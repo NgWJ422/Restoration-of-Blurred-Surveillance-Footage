@@ -112,5 +112,5 @@ def main(filepath):
 
 if __name__ == "__main__":
     # Provide the path to your blurred image
-    image_path = 'train/train_blur_jpeg/003/00000000.jpg'
+    image_path = '../train/train_blur_jpeg/003/00000000.jpg'
     main(image_path)
