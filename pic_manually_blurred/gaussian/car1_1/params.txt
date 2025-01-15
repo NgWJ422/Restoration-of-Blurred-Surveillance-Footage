@@ -1,0 +1,2 @@
+kernel_size: (7, 7)
+sigma: 8
